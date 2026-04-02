@@ -79,6 +79,4 @@ Business Analysts
 - 👥 Implement customer segmentation for targeted marketing
 - 📉 Analyze reasons behind decline in average sale value
 - 📊 Add profit margin analysis (not just revenue)
-- 🧠 Include inventory optimization insights
-⚠️ Introduce alerts for revenue dips or anomalies
-📍 Add geospatial maps for better regional visualization
+- 📍 Add geospatial maps for better regional visualization
